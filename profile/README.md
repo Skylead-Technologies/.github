@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--
+🙋‍♀️ Welcome to the **Skylead Technologies** organization!
 
-**Here are some ideas to get you started:**
+Here are some 
+that everyone should be aware of. Please make sure to read them: <br/>
+🌈 [Git standards](https://docs.google.com/document/d/1U8LU-RxmcUB011FYOvD1WHzlJ3CXNpFNjiMG1NVNt7c)<br/>
+👩‍💻 [The process of developing new features](https://docs.google.com/document/d/1nGEW7Bkg0bC1IyWxgH-eiyiSEoJHZdFMiCRGsFI2PnA)<br/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+**Skylead product showcase**
+🍿 [Skylead video demo](https://drive.google.com/file/d/1lk4doJ9IyGIZgw1S1UwabQttnZizNhAJ)
+
