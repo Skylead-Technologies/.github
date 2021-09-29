@@ -3,8 +3,9 @@
 🙋‍♀️ Welcome to the **Skylead Technologies** organization!<br/><br/>
 
 ## General guidelines
-🌈 [Git standards](https://docs.google.com/document/d/1U8LU-RxmcUB011FYOvD1WHzlJ3CXNpFNjiMG1NVNt7c)<br/>
-👩‍💻 [The process of developing new features](https://docs.google.com/document/d/1nGEW7Bkg0bC1IyWxgH-eiyiSEoJHZdFMiCRGsFI2PnA)
+🌈 [Task priorities and Definition of Done (DoD)](https://docs.google.com/document/d/1CCvRxpgeVRl36Y_x1-mtyIuREtR6lET3sAn6JTa1zLE)<br/>
+🧙 [The process of developing new features](https://docs.google.com/document/d/1nGEW7Bkg0bC1IyWxgH-eiyiSEoJHZdFMiCRGsFI2PnA)<br/>
+👩‍💻 [Git standards](https://docs.google.com/document/d/1U8LU-RxmcUB011FYOvD1WHzlJ3CXNpFNjiMG1NVNt7c)
 
 ## Skylead product showcase
 🍿 [Skylead video demo](https://drive.google.com/file/d/1lk4doJ9IyGIZgw1S1UwabQttnZizNhAJ)
