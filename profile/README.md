@@ -10,6 +10,9 @@
 ## Skylead product showcase
 🍿 [Skylead video demo](https://drive.google.com/file/d/1lk4doJ9IyGIZgw1S1UwabQttnZizNhAJ)
 
+## Skylead backend packages
+💻 [Skylead packages](https://docs.google.com/document/d/11nPWg3WxhhHIL2F7GsdcwnExy6PRKWRKAT_unn0VL7w)
+
 ## Team meetings
 We have daily meeting every day (except Wednesday) 12am CEST and a weekly call on every Wednesday 4:30pm CEST.<br/>
 All the events are added in your google calendar connected with your skylead email.
