@@ -15,4 +15,5 @@
 
 ## Team meetings
 We have daily meeting every day (except Wednesday) 12am CEST and a weekly call on every Wednesday 4:30pm CEST.<br/>
-All the events are added in your google calendar connected with your skylead email.
+All the events are added in your google calendar connected with your skylead email.<br/>
+[All retrospectives](https://docs.google.com/document/d/1--vGek5QQOgvR9kINmTNF_rkgd28OQjjvY0ELljNijk)
