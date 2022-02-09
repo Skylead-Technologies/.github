@@ -19,5 +19,5 @@ All the events are added in your google calendar connected with your skylead ema
 [All retrospectives](https://docs.google.com/document/d/1--vGek5QQOgvR9kINmTNF_rkgd28OQjjvY0ELljNijk)
 
 ## Releases
-📝 [Release notes](https://drive.google.com/drive/u/1/folders/15xKgX8aBqvdnqTDelFDS5MohQNYxXvqz)
+📝 [Release notes](https://drive.google.com/drive/u/1/folders/15xKgX8aBqvdnqTDelFDS5MohQNYxXvqz)<br/>
 🍿 [Show&tell](https://drive.google.com/drive/u/1/folders/1Clz9-v5-nBc2Q_OTMSExi9rEh_BBvZgU)
