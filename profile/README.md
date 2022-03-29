@@ -2,6 +2,22 @@
 
 🙋‍♀️ Welcome to the **Skylead Technologies** organization!<br/><br/>
 
+## Developer team split
+Our developer team is separated into 3 smaller teams:<br/>
+- **Frontend team** - Main dashboard development, wordpress websites and frontend of our backoffice.
+- **Worker team** - The functional core of our system. This includes our workers, schedulers and scripts regarding the general linkedin and email task schedule and execution as well as some periodically called scripts.
+- **Backend team** - Here are our main API services made. It includes our main backend, the backend of the backoffice, Open API and Email integration.
+
+## Team meetings
+All teams have separated team meetings with the same meeting structure.<br/>
+- **Daily meetings** - every weekday (Monday to Friday except every other Wednesday)
+- **Planning meetings** - every other Wednesday
+
+The meeting timing depends on the team you are in.
+All the events are **added into your google calendar** connected with your **skylead email**, so you can check for the exact timing there, depending on your timezone.
+
+For every planning, we are taking a track of all thing regarding processes that our developer have complained about are or will be improved. Feel free to take a look at it:  [All retrospectives](https://docs.google.com/document/d/1--vGek5QQOgvR9kINmTNF_rkgd28OQjjvY0ELljNijk)
+
 ## General guidelines
 🌈 [Task priorities and Definition of Done (DoD)](https://docs.google.com/document/d/1CCvRxpgeVRl36Y_x1-mtyIuREtR6lET3sAn6JTa1zLE)<br/>
 🧙 [The process of developing new features](https://docs.google.com/document/d/1nGEW7Bkg0bC1IyWxgH-eiyiSEoJHZdFMiCRGsFI2PnA)<br/>
@@ -12,11 +28,6 @@
 
 ## Skylead backend packages
 💻 [Skylead packages](https://docs.google.com/document/d/11nPWg3WxhhHIL2F7GsdcwnExy6PRKWRKAT_unn0VL7w)
-
-## Team meetings
-We have daily meeting every day (except Wednesday) 12am CEST and a weekly call on every Wednesday 4:30pm CEST.<br/>
-All the events are added in your google calendar connected with your skylead email.<br/>
-[All retrospectives](https://docs.google.com/document/d/1--vGek5QQOgvR9kINmTNF_rkgd28OQjjvY0ELljNijk)
 
 ## Releases
 📝 [Release notes](https://drive.google.com/drive/u/1/folders/15xKgX8aBqvdnqTDelFDS5MohQNYxXvqz)<br/>
