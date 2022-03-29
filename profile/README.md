@@ -13,6 +13,8 @@ All teams have separated team meetings with the same meeting structure.<br/>
 - **[Daily meetings](https://docs.google.com/document/d/1G1ryt2GO0L4CoMyc5nh-qbJcTFgYcdNlowzQ5bixYVA/edit#)** - every weekday (Monday to Friday except every other Wednesday)
 - **[Planning meetings](https://docs.google.com/document/d/1cy5fId6c4TyTE77zQBp0W23LUYIZ2_OAWEgRupiOvPM)** - every other Wednesday
 
+<br />
+
 The meeting timing depends on the team you are in.
 All the events are **added into your google calendar** connected with your **skylead email**, so you can check for the exact timing there, depending on your timezone.
 
