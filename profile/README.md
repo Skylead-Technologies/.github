@@ -16,7 +16,14 @@ All teams have separated team meetings with the same meeting structure.<br/>
 The meeting timing depends on the team you are in.
 All the events are **added into your google calendar** connected with your **skylead email**, so you can check for the exact timing there, depending on your timezone.
 
-For every planning, we are taking a track of all thing regarding processes that our developer have complained about are or will be improved. Feel free to take a look at it:  [All retrospectives](https://docs.google.com/document/d/1--vGek5QQOgvR9kINmTNF_rkgd28OQjjvY0ELljNijk)
+<br />
+
+Please, make sure that: 
+- **You are not late** - Everyone's time is valuable, so let’s treat it as such. ⌛
+- **You don’t get too comfy** - Let’s make it a short, effective meeting for everyone. 
+- **You are not rambling** - Be as clear and concise as possible. Remain mindful of the limited time allotted to you and other team members. 
+- **You are listening** - Stay focused. You might have a solution to your teammate's obstacles and it would be great to share it! 💡
+- **You avoid 1-on-1 conversations** - It's a team meeting, and we’ll all be more efficient if we leave back-and-forth conversations after the meeting. 
 
 ## General guidelines
 🌈 [Task priorities and Definition of Done (DoD)](https://docs.google.com/document/d/1CCvRxpgeVRl36Y_x1-mtyIuREtR6lET3sAn6JTa1zLE)<br/>
