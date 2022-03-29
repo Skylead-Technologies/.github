@@ -16,7 +16,7 @@ All teams have separated team meetings with the same meeting structure.<br/>
 <br />
 
 The meeting timing depends on the team you are in.
-All the events are **added into your google calendar** connected with your **skylead email**, so you can check for the exact timing there, depending on your timezone.
+All the events are **added into your google calendar** connected with your **skylead email**, so you can check for the exact timing there, depending on your timezone. Every event has the **google meet link** attached for those who are joining it online.
 
 <br />
 
