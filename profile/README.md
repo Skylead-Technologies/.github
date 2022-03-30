@@ -2,6 +2,9 @@
 
 🙋‍♀️ Welcome to the **Skylead Technologies** organization!<br/><br/>
 
+## Work Etics
+[Remote days, vactions & bonuses](https://docs.google.com/document/d/1P8xc5WaSfP1t_y6VfzsnlNFy0739dTu39-qWIswJFrc)
+
 ## Developer team split
 Our developer team is separated into 3 smaller teams:<br/>
 - **Frontend team** - Main dashboard development, wordpress websites and frontend of our backoffice.
