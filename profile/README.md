@@ -2,8 +2,11 @@
 
 🙋‍♀️ Welcome to the **Skylead Technologies** organization!<br/><br/>
 
+## Developer documentation
+📄 [Skylead documentation folder](https://drive.google.com/drive/u/1/folders/1TV1Q17va_XrtivF7Rlzh-G_MiCG_evQG)
+
 ## Work Etics
-[Remote days, vactions & bonuses](https://docs.google.com/document/d/1P8xc5WaSfP1t_y6VfzsnlNFy0739dTu39-qWIswJFrc)
+🛬 [Remote days, vactions & bonuses](https://docs.google.com/document/d/1P8xc5WaSfP1t_y6VfzsnlNFy0739dTu39-qWIswJFrc)
 
 ## Developer team split
 Our developer team is separated into 3 smaller teams:<br/>
@@ -32,9 +35,13 @@ Please, make sure that:
 - **You avoid 1-on-1 conversations** - It's a team meeting, and we’ll all be more efficient if we leave back-and-forth conversations after the meeting. 
 
 ## General guidelines
-🌈 [Task priorities and Definition of Done (DoD)](https://docs.google.com/document/d/1CCvRxpgeVRl36Y_x1-mtyIuREtR6lET3sAn6JTa1zLE)<br/>
+📐 [Skylead Architecture](https://docs.google.com/document/d/1MZaXfQTQZTbnHInenQjtuvIY8WGAkHuWKwOMnyhhxFA)<br />
+🔁 [Release Cycle](https://docs.google.com/document/d/18XJa7esfcatBW8CuP69BlYBM19CqstoxovM7W8_KSmc)<br />
+🧙 [AWS service](https://docs.google.com/document/d/1_mmZscsI5rBRhaCKCT0_1rbH3n-dXBrEVD_1G1Npi0Y)<br />
+🌈 [Jira usage, Task prioritization, resolving issue process (DoD)](https://docs.google.com/document/d/1N33fk_rDSaaSn8-1QwbjQPkF3y3LvdKuXkvQmWQi3vY)<br/>
 🧙 [The process of developing new features](https://docs.google.com/document/d/1nGEW7Bkg0bC1IyWxgH-eiyiSEoJHZdFMiCRGsFI2PnA)<br/>
-👩‍💻 [Git standards](https://docs.google.com/document/d/1U8LU-RxmcUB011FYOvD1WHzlJ3CXNpFNjiMG1NVNt7c)
+👩‍💻 [Git standards](https://docs.google.com/document/d/14kYseqqTmimYzJ8YLU68KfrkZMo5yeB-2p74hmqBIfE)<br/>
+📮 [Postman standards](https://docs.google.com/document/u/1/d/1DtVMBvaZ1g9xFoMiOoDMV65wdl989r_asPU54jmWfAc)
 
 ## Skylead product showcase
 🍿 [Skylead video demo](https://drive.google.com/file/d/1lk4doJ9IyGIZgw1S1UwabQttnZizNhAJ)
