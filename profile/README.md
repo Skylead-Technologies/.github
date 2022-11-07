@@ -44,7 +44,7 @@ Please, make sure that:
 📮 [Postman standards](https://docs.google.com/document/u/1/d/1DtVMBvaZ1g9xFoMiOoDMV65wdl989r_asPU54jmWfAc)
 
 ## Skylead product showcase
-🍿 [Skylead video demo](https://drive.google.com/file/d/1Pe-6oY3m8murJ0NQIU0_tCeIMyQZa1Y9)
+🍿 [Skylead video demo](https://www.youtube.com/watch?v=h74DhCnC7bk)
 
 ## Skylead backend packages
 💻 [Skylead packages](https://docs.google.com/document/d/11nPWg3WxhhHIL2F7GsdcwnExy6PRKWRKAT_unn0VL7w)
